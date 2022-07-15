@@ -1,0 +1,10 @@
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+section div{
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
